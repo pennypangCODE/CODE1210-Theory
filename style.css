@@ -1,0 +1,99 @@
+
+.f1{
+    fill : #B6E59E;
+}
+.f2{
+  	fill : #75CFF0;
+}
+.f3{
+  	fill : #B6E59E;
+}
+.f4{
+   	fill : #B6E59E;
+}
+.f5{
+   	fill : #B6E59E;
+}
+.f6{
+   	fill : #B6E59E;
+}
+.f7{
+	fill : #B6E59E;
+}
+.f8{
+   	fill : #B6E59E;
+}
+.f9{
+   	fill : #B6E59E;
+}
+
+.f10{
+   	fill : #B6E59E;
+}
+
+/* Styling Map with colours */
+.st0{fill:#E6E4E0;}
+.st1{fill:#B6E59E;}
+.st1_after{fill:#A52A2A;}
+.st2{fill:#DCD9D6;}
+.st3{font-family:'MyriadPro-Regular';}
+.st4{font-size:27.9735px;}
+.st5{fill:#FFB808;}
+.st6{fill:#FFFFFF;}
+.st7{fill:#75CFF0;}
+
+/* Hovering for Map */
+svg{
+  height: 100%;
+}
+#students:hover{
+  fill-opacity: 0.35;
+  cursor: pointer;
+}
+#homeless:hover{
+  fill-opacity:0.35;
+  cursor: pointer;
+}
+#chess:hover{
+  fill-opacity: 0.35;
+  cursor: pointer;
+}
+#dancing:hover{
+  fill-opacity:0.35;
+  cursor: pointer;
+}
+#buskers:hover{
+  fill-opacity:0.35;
+  cursor: pointer;
+}
+#tourist:hover{
+  fill-opacity:0.35;
+  cursor: pointer;
+}
+#fountain:hover{
+  fill-opacity:0.35;
+  cursor: pointer;
+}
+#wedding:hover{
+  fill-opacity:0.35;
+  cursor: pointer;
+}
+#skate:hover{
+  fill-opacity:0.35;
+  cursor: pointer;
+}
+#family:hover{
+  fill-opacity:0.35;
+  cursor: pointer;
+}
+img{
+  margin:3px;
+}
+/* tooltip image styling */
+.tooltip_templates{
+  display:none;
+}
+
+.slider-bar{
+  width:80%;
+}
